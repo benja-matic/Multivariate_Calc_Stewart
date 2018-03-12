@@ -1,2 +1,2 @@
 # Multivariate_Calc_Stewart
-Plots and work from James Stewart's Multivariate Calc
+A buddy of mine lent me the multivariate calc textbook that he taught out of. Book seems to encourage plotting, so I figured I'd save my code, plots, etc. here. 
